@@ -1,3 +1,5 @@
+#Caleb Covington
+#1606086
 wordlist= list(input().split(" "))
 wordfreq = []
 

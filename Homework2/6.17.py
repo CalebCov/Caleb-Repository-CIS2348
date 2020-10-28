@@ -1,10 +1,12 @@
+#Caleb Covington
+#1606086
 
-word = input()
+UserWord = input()
 password = ''
 
-n = 0
-while n < len(word):
-    char = word[n]
+z = 0
+while z < len(UserWord):
+    char = UserWord[z]
     if char == 'i':
         password += '!'
     elif char == 'a':
@@ -17,7 +19,7 @@ while n < len(word):
         password += '.'
     else:
         password += char
-    n += 1
+    z += 1
 
 password += "q*s"
 

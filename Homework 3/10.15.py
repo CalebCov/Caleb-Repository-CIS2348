@@ -1,4 +1,5 @@
-#Create a class
+#Caleb Covington
+#1606086
 
 class ItemToPurchase:
 

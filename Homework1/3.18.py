@@ -1,6 +1,7 @@
+#Caleb Covington
+#1606086
 import math
 
-# Dictionary of paint colors and cost per gallon
 paint_colors = {
    'red': 35,
    'blue': 25,

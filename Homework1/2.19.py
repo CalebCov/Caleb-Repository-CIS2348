@@ -1,3 +1,5 @@
+#Caleb Covington
+#1606086
 lemon_juice_cups = float(input('Enter amount of lemon juice (in cups):\n'))
 water_in_cups = float(input('Enter amount of water (in cups):\n'))
 agave_in_cups = float(input('Enter amount of agave nectar (in cups):\n'))

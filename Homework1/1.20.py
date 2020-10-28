@@ -1,3 +1,5 @@
+#Caleb Covington
+#1606086
 user_num = int(input("Enter integer:\n"))
 
 # Type your code here

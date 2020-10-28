@@ -1,10 +1,10 @@
 #Caleb Covington
 #1606086
-wordlist= list(input().split(" "))
-wordfreq = []
+listOfWords= list(input().split(" "))
+frequency = []
 
-for l in wordlist:
-    wordfreq.append(wordlist.count(l))
+for l in listOfWords:
+    frequency.append(listOfWords.count(l))
 
-for i in range(len(wordlist)):
-    print(wordlist[i], wordfreq[i])
+for i in range(len(listOfWords)):
+    print(listOfWords[i], frequency[i])

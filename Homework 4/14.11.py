@@ -1,3 +1,5 @@
+#Caleb Covington
+#1606086
 def selection_sort_descend_trace(numbers):
     for i in range(len(numbers) - 1):
         max_ind = i

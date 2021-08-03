@@ -1,5 +1,4 @@
-"""Caleb Covington
-   1606086     """
+"""Caleb Covington"""
 import csv
 import operator
 from ManufacturerListController import *

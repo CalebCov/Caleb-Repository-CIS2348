@@ -1,5 +1,4 @@
-"""Caleb Covington
-   1606086     """
+"""Caleb Covington"""
 
 import csv   #Call to import CSV files.
 import operator #Call to import Operators.

@@ -1,5 +1,4 @@
-"""Caleb Covington
-   1606086     """
+"""Caleb Covington"""
 from datetime import datetime
 from datetime import date
 import operator

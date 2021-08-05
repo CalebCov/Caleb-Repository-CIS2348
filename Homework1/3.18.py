@@ -1,5 +1,5 @@
 #Caleb Covington
-#1606086
+
 import math
 
 paint_colors = {

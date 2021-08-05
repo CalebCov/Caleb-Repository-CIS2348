@@ -1,5 +1,5 @@
 #Caleb Covington
-#1606086
+
 # Split input into 2 parts: name and age
 parts = input().split()
 name = parts[0]

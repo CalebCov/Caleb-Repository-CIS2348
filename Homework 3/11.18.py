@@ -1,5 +1,5 @@
 #Caleb Covington
-#1606086
+
 integers = input().split()
 non_negative=[]
 for num in integers:

@@ -1,5 +1,5 @@
 #Caleb Covington
-#1606086
+
 def get_age():
     age = int(input())
     # TODO: Raise excpetion for invalid ages

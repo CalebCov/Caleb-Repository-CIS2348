@@ -1,5 +1,5 @@
 #Caleb Covington
-#1606086
+#program that returns user input squared, cubed, summed, and the product.
 user_num = int(input("Enter integer:\n"))
 
 # Type your code here

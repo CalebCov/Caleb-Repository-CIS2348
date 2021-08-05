@@ -1,5 +1,5 @@
 #Caleb Covington
-#1606086
+# User inputs numer to be squared.
 
 userNum = int(input())
 userNumSquared = userNum * userNum   

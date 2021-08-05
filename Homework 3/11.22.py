@@ -1,5 +1,5 @@
 #Caleb Covington
-#1606086
+
 listOfWords= list(input().split(" "))
 frequency = []
 
